@@ -1,6 +1,6 @@
 # 📚 PROJECT GIT PEER GROUP
 
-Selamat datang di repository *PROJECT_GIT_PEER_GROUP* 🎉  
+Selamat datang di repository *PROJECT_GIT_PEER_GROUP*   
 Repo ini dibuat sebagai bagian dari *tugas kelompok peer group* untuk mempelajari dan mempraktikkan penggunaan *Git* dan *GitHub* dalam kerja tim.
 
 ---
@@ -20,6 +20,6 @@ Repo ini dibuat sebagai bagian dari *tugas kelompok peer group* untuk mempelajar
 - Membuat sebuah program dari dua pertemuan PERR GROUP yang lalu.
 - Melatih kemampuan dalam bekerja sama.
 
----
+
 
 
