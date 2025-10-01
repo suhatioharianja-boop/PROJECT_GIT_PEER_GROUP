@@ -5,7 +5,7 @@ Repo ini dibuat sebagai bagian dari *tugas kelompok peer group* untuk mempelajar
 
 ---
 
-## 👥 Anggota Kelompok
+## Anggota Kelompok
 - 👤 Anggota 1 – [Nama lengkap]
 - 👤 Anggota 2 – [Nama lengkap]
 - 👤 Anggota 3 – [Nama lengkap]
@@ -14,11 +14,12 @@ Repo ini dibuat sebagai bagian dari *tugas kelompok peer group* untuk mempelajar
 
 ---
 
-## 🎯 Tujuan Proyek
+##  Tujuan Proyek
 - Memahami dasar penggunaan *Git* (init, add, commit, branch, merge, push, pull).
 - Berkolaborasi menggunakan *GitHub* sebagai repository bersama.
 - Membiasakan dokumentasi proyek melalui file *README.md*.
 
 ---
 
-## 📂 Struktur Folder
+##  Struktur Folder 
+
