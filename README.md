@@ -21,5 +21,4 @@ Repo ini dibuat sebagai bagian dari *tugas kelompok peer group* untuk mempelajar
 
 ---
 
-##  Struktur Folder 
 
