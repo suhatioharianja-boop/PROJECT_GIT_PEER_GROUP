@@ -17,9 +17,8 @@ Repo ini dibuat sebagai bagian dari *tugas kelompok peer group* untuk mempelajar
 ---
 
 ##  Tujuan Proyek
-- Memahami dasar penggunaan *Git* (init, add, commit, branch, merge, push, pull).
-- Berkolaborasi menggunakan *GitHub* sebagai repository bersama.
-- Membiasakan dokumentasi proyek melalui file *README.md*.
+- Membuat sebuah program dari dua pertemuan PERR GROUP yang lalu.
+- Melatih kemampuan dalam bekerja sama.
 
 ---
 
