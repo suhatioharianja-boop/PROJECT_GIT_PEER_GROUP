@@ -5,15 +5,14 @@ Repo ini dibuat sebagai bagian dari *tugas kelompok peer group* untuk mempelajar
 
 ---
 
-## 👥 Anggota Kelompok
+## Anggota Kelompok
 
 | No | Nama Lengkap       | NPM        | Role              |
 |----|--------------------|------------|-------------------|
-| 1  | SUHATIO HARIANJA   | [NPM 1]    | Ketua            |
-| 2  | [Nama Anggota 2]   | [NPM 2]    | Anggota      |
+| 1  | SUHATIO HARIANJA   | 2517052033    | Ketua            |
+| 2  | AUDI PUTRI CRESSYA   | 2517052029    | Anggota      |
 | 3  | [Nama Anggota 3]   | [NPM 3]    | Anggota        |
 | 4  | [Nama Anggota 4]   | [NPM 4]    | Anggota          |
-| 5  | [Nama Anggota 5]   | [NPM 5]    | Anggota           |
 
 ---
 
