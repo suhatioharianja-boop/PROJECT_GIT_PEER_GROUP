@@ -1,2 +1,0 @@
-# PROJECT_GIT_PEER_GROUP.
-Tugas dari pertemuan 2 PERR Group  KELOMPOK 1 RPL SESI 2
