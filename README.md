@@ -5,12 +5,11 @@ Repo ini dibuat sebagai bagian dari *tugas kelompok peer group* untuk mempelajar
 
 ---
 
-## Anggota Kelompok
-- 👤 Anggota 1 – [Nama lengkap]
-- 👤 Anggota 2 – [Nama lengkap]
-- 👤 Anggota 3 – [Nama lengkap]
-- 👤 Anggota 4 – [Nama lengkap]
-- 👤 Anggota 5 – [Nama lengkap]
+## Anggota Kelompok                  NPM
+- 👤 Ketua     – [Nama lengkap]    []
+- 👤 Anggota 1 – [Nama lengkap]    []
+- 👤 Anggota 2 – [Nama lengkap]    []
+- 👤 Anggota 3 – [Nama lengkap]    []
 
 ---
 
