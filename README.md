@@ -12,7 +12,7 @@ Repo ini dibuat sebagai bagian dari *tugas kelompok peer group* untuk mempelajar
 | 1  | SUHATIO HARIANJA   | 2517052033    | Ketua            |
 | 2  | AUDI PUTRI CRESSYA   | 2517052029    | Anggota      |
 | 3  |  Matthew Owen Tiander S.  |   2517052060  | Anggota        |
-| 4  | Aldi Winson Sihotang  | [NPM 4]    | Anggota          |
+| 4  | Aldi Winson Sihotang  | 2557052004    | Anggota          |
 
 ---
 
